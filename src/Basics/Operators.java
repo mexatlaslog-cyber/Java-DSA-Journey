@@ -10,7 +10,7 @@ package Basics;
  */
 public class Operators {
 
-    public static void main(String[] args) {
+    public static void main(StringManipulation[] args) {
         Operators obj = new Operators();
         obj.arithmetic(10, 5);
         obj.conditional(10, 5);

@@ -7,7 +7,7 @@ package Basics;
 *  Space Complexity: O(1)
 *  Difficulty: Easy */
     public class IntroJava {
-    public static void main(String[] args) {
+    public static void main(StringManipulation[] args) {
         System.out.println("Introduction to Java!");
         System.out.println("Hello World!");
     }

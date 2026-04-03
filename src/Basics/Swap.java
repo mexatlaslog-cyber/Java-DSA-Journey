@@ -9,7 +9,7 @@ package Basics;
  */
 public class Swap {
 
-    public static void main(String[] args) {
+    public static void main(StringManipulation[] args) {
 
         int a = 23, b = 7;
 

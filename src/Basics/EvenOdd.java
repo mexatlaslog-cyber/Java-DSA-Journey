@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class EvenOdd {
 
-    public static void main(String[] args) {
+    public static void main(StringManipulation[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter Number: ");
