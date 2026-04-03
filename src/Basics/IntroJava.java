@@ -1,3 +1,5 @@
+package Basics;
+
 /*Problem: Introduction to Java
 * Description: Print basic messages to understand Java syntax
 * Approach: Use print statement to display output
